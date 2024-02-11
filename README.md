@@ -21,22 +21,12 @@ Please feel free to reach out to me if you have any questions or if you want to 
 </div>
 
 <div align="center" markdown="1">
-    <!-- Dark mode only cards -->
     <a href="https://github.com/cyboooooorg">
-        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=cyboooooorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=github_dark#gh-dark-mode-only" />
+        <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=cyboooooorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default" />
     </a>
     <a href="https://github.com/cyboooooorg">
-        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyboooooorg&layout=donut&langs_count=8&theme=github_dark#gh-dark-mode-only" />
+        <img height=225 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyboooooorg&layout=donut&langs_count=8&theme=default" />
     </a>
-    <!-- End of dark mode only cards -->
-    <!-- Light mode only cards -->
-    <a href="https://github.com/cyboooooorg">
-        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=cyboooooorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only" />
-    </a>
-    <a href="https://github.com/cyboooooorg">
-        <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyboooooorg&layout=donut&langs_count=8&theme=default#gh-light-mode-only" />
-    </a>
-    <!-- End of light mode only cards -->
 </div>
 
 ### Here's my GitHub contribution graph fighting for its life
@@ -55,6 +45,6 @@ Please feel free to reach out to me if you have any questions or if you want to 
 
 ## Contact me
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/martin-ndoumbe/) or [Twitter](https://twitter.com/cyboooooorg). I'm always open to meeting new people and learning new things.
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/martin-crampon/) or [Twitter](https://twitter.com/cyboooooorg). I'm always open to meeting new people and learning new things.
 
 You can also help me improve this `README` by opening a PR with your suggestions. I'm always looking for ways to improve this `README` and make it more interesting.
