@@ -3,9 +3,8 @@
 <div align="center" markdown="1">
 
 ![Views counter](https://komarev.com/ghpvc/?username=cyboooooorg)
-[![x profile](https://img.shields.io/badge/Twitter-@Cyboooooorg-informational?style=flat&logo=x)](https://x.com/Cyboooooorg)
+[![Twitter (X)](https://img.shields.io/badge/Twitter-@Cyboooooorg-informational?style=flat&logo=x)](https://x.com/Cyboooooorg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin%20Crampon-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-crampon/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40Cyboooooorg-blue?style=flat&logo=twitter)](https://twitter.com/cyboooooorg)
 [![GitHub](https://img.shields.io/badge/GitHub-%40cyboooooorg-blue?style=flat&logo=github)](https://github.com/cyboooooorg)
 
 </div>
@@ -68,9 +67,8 @@ Since i'm also available as a freelancer as side job, please feel free to reach 
 
 You can reach out to me by using the following methods:
 
-- [![x profile](https://img.shields.io/badge/Twitter-@Cyboooooorg-informational?style=flat&logo=x)](https://x.com/Cyboooooorg)
+- [![Twitter (X)](https://img.shields.io/badge/Twitter-@Cyboooooorg-informational?style=flat&logo=x)](https://x.com/Cyboooooorg)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin%20Crampon-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-crampon/)
-- [![Twitter](https://img.shields.io/badge/Twitter-%40Cyboooooorg-blue?style=flat&logo=twitter)](https://twitter.com/cyboooooorg)
 - [![GitHub](https://img.shields.io/badge/GitHub-%40cyboooooorg-blue?style=flat&logo=github)](https://github.com/cyboooooorg)
 
 ### Here's my GitHub contribution graph fighting for its life
